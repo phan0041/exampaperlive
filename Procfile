@@ -1,1 +1,1 @@
-web: gunicorn ExamPapers.wsgi --log-file -
+web: gunicorn a.wsgi --log-file -
